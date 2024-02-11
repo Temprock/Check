@@ -1,7 +1,0 @@
-Enter Number Of Elements:4
-Enter Sum For Subset Do You Want:7
-Enter Elements of an array:1 2 3 4
-1 2 4 
-3 4 
-
-Total Number Of Subset:2 
